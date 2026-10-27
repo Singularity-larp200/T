@@ -1,79 +1,199 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxNmM4Y2UwNS1lMDU0LTQ0NTYtYmM1Ni04MTlmN2ViZWRhNmQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJk4n/MptqepCXP4/9Cd1skAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4Yzg4M2M3Yy1iMWYyLTQxZGItYWY3Ni1kMDJkMDZiNWZjMzJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoAgTJoreM1NCp3y7mSwfRggAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggNQ5oTjU2eI5KFwJ9lGg+Ny0S/jpKM8AAVpxARTz6u2mkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDUxee2a54e0YnNbLo45jAMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCArP86yxGq2//HnW2NfzrBT4gvuU1DQzzG2rEyQvLTQ1mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBipZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjE2YzhjZTA1LWUwNTQtNDQ1Ni1iYzU2LTgxOWY3ZWJlZGE2ZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmYwZGMyMzdmLTE1ODItNDE4Zi1hOWQ0LTQ2ZjIwNTY3MTUyMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCA1DmhONTZ4jkoXAn2UaD43LRL+OkozwABWnEBFPPq7aaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggM5/zR8+0fP+DK6Abh3rJ4BMD7Onmq1H5xCAAqvyc0KSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggWkL7xvyVp7poxUC60jv19XSCRe4GdXGkJfD2MFZzU5J0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEmHjVYbZn/+rshtfWeilmgfT+UV/LoapXUtvblVgKGjzNzszqBkFT68SxI90z8jzQNTPud79dZRyNn7UjG6pLg=</c2pa:manifest></metadata>
-  <title>Singularity v2</title>
-  <foreignObject x="0" y="0" width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml"
-         style="position:absolute;inset:0;display:flex;flex-direction:column;background:#0b0d10;font:12px system-ui,sans-serif;">
-      <div style="flex:0 0 auto;display:flex;padding:4px 10px;color:#9aa4af;background:#14181d;border-bottom:1px solid #222a33;">
-        <span>Singularity v2</span>
-        <span id="status" style="margin-left:auto;">loading from repo…</span>
-      </div>
-      <iframe id="app"
-              allow="fullscreen; autoplay; clipboard-read; clipboard-write"
-              style="flex:1 1 auto;width:100%;border:0;background:#fff;"></iframe>
-    </div>
-  </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyZjg0MmFiNS1iNzdhLTQ5MjktOTIxNS05MjM2ZWJjYmZhM2IAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGDa0GTpyaDxo7sbPm6UuQoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkMGI2ZTAyNC02N2U5LTRhNTQtOTY0MC05Y2MxN2Y3NmFjNjRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoWQBIG8zHKAj8MXtkm7L3RQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggYcmUGYPxcvjg1JDWF3vXeRyZx9ViTPgBaNWCZwxhT6KkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFHIX7J/0giSI+bu2Hhkb8MAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDLzZxsYcYj9ScrAoXrWYiwwJJVQcoMH/G/HOKcMXpKeWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiCZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjJmODQyYWI1LWI3N2EtNDkyOS05MjE1LTkyMzZlYmNiZmEzYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjY5ZmQxMmY4LTYxZWItNGI3OS05YjNmLTdlNTYxODE4MzRhN3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBhyZQZg/Fy+ODUkNYXe9d5HJnH1WJM+AFo1YJnDGFPoqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggfqlBS8aKt6TvMOLkEzj0E5rO9CPoJk6b63PvfUZBVt6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggYg0CFayh/L9yXrCrK1Zf3IgSwixgxh5yqwobCB5CE+R0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQIuoCPHvxa9xgtgWC8cTUHHurGuG/H6EcpSWyz6BGXRlSHpufRRMzymG7lZ4e8WvZFXEuIcUcsUdfdz324eCl6g=</c2pa:manifest></metadata>
+<title>Singularity</title>
+<style><![CDATA[
+svg{position:fixed;inset:0;width:100%;height:100%;background:#0b0b0f}
+#root{position:relative;width:100%;height:100%;overflow:hidden;background:#0b0b0f;color:#e8e8ee;font:14px system-ui,sans-serif}
+#app{position:absolute;inset:0;width:100%;height:100%;border:0;opacity:0;transition:opacity .25s}
+#splash{position:absolute;inset:0;display:grid;place-content:center;justify-items:center;gap:12px;text-align:center;background:#0b0b0f}
+#splash b{font-size:20px;letter-spacing:.25em}
+#msg{opacity:.65;max-width:360px}
+button{font:inherit;color:inherit;background:#23232e;border:1px solid #3a3a4a;border-radius:8px;padding:6px 12px;cursor:pointer}
+button:hover{background:#2d2d3b}
+#toast{position:absolute;left:12px;bottom:12px;z-index:9;display:none;gap:10px;align-items:center;background:#17171f;border:1px solid #3a3a4a;border-radius:10px;padding:10px 12px}
+]]></style>
+<foreignObject id="fo" x="0" y="0" width="100%" height="100%"></foreignObject>
+<script><![CDATA[
+const NS = 'http://www.w3.org/1999/xhtml';
+const mk = (tag, props, parent) => parent.appendChild(Object.assign(document.createElementNS(NS, tag), props));
+const root = mk('div', { id: 'root' }, document.getElementById('fo'));
+mk('iframe', { id: 'app', allow: 'fullscreen; autoplay; clipboard-write; microphone; camera' }, root);
+const splash = mk('div', { id: 'splash' }, root);
+mk('b', { textContent: 'SINGULARITY' }, splash);
+mk('div', { id: 'msg', textContent: 'Checking for updates\u2026' }, splash);
+mk('button', { id: 'retry', hidden: true, textContent: 'Retry' }, splash);
+const toast = mk('div', { id: 'toast' }, root);
+mk('span', { id: 'tmsg' }, toast);
+mk('button', { id: 'tgo', textContent: 'Update now' }, toast);
+mk('button', { id: 'tno', textContent: 'Later' }, toast);
+const REPO          = 'Singularity-larp200/Singularity';
+const BRANCH        = 'main';
+const SUBDIR        = 'public';
+const API_ORIGIN    = '';
+const CHECK_MINUTES = 5;
+const AUTO_APPLY    = true;
+const CDN = 'https://cdn.jsdelivr.net/gh/';
+const ROOTS = 'assets|pages|scram|baremux|epoxy|libcurl|legal|onboarding|c';
+const $ = id => document.getElementById(id), app = $('app');
+let ready = false, sha = null, B = '', cache = null, lastBoot = 0, pending = null, timer = null;
+const mem = new Map(), blobs = new Map();
+const GH = /^https:\/\/cdn\.jsdelivr\.net\/gh\//;
+const isHtml = u => typeof u === 'string' && GH.test(u) && /\.html?$|\/$/.test(u.split(/[?#]/)[0]);
 
-  <script type="text/javascript"><![CDATA[
-    // ---- CONFIG ----------------------------------------------------------
-    var REPO    = "Singularity-larp200/SIngularity-v2";
-    var BRANCH  = "main";
-    var ENTRY   = "public/index.html";            // <- change if your entry file differs
-    var BACKEND = "https://singularityv2.vercel.app"; // where /api/* calls go
-    var POLL_MS = 60000;
-    // ----------------------------------------------------------------------
+function shim(C) {
+  const fix = u => {
+    if (typeof u !== 'string' || u[0] !== '/' || u[1] === '/') return u;
+    if (/^\/(assets|pages|scram|baremux|epoxy|libcurl|legal|onboarding|c)\//.test(u)) return C.base + u;
+    if (C.api && u.startsWith('/api/')) return C.api + u;
+    return u;
+  };
+  const GH = /^https:\/\/cdn\.jsdelivr\.net\/gh\//;
+  const isHtml = u => typeof u === 'string' && GH.test(u) && /\.html?$|\/$/.test(u.split(/[?#]/)[0]);
+  let w = window, sf;
+  try { while (w && !w.__sf && w !== w.parent) w = w.parent; sf = w && w.__sf; } catch {}
+  const f = fetch; window.fetch = (i, o) => f(typeof i === 'string' ? fix(i) : i, o);
+  const xo = XMLHttpRequest.prototype.open;
+  XMLHttpRequest.prototype.open = function (m, u, ...r) { return xo.call(this, m, fix(u), ...r); };
+  const U = URLSearchParams;
+  window.URLSearchParams = class extends U { constructor(i) { super(i === location.search && !i ? C.q : i); } };
+  const d = Object.getOwnPropertyDescriptor(HTMLIFrameElement.prototype, 'src');
+  const set = function (v) {
+    v = fix(v);
+    if (sf && isHtml(v))
+      sf.page(v).then(h => { this.srcdoc = h; }).catch(() => d.set.call(this, v));
+    else d.set.call(this, v);
+  };
+  Object.defineProperty(HTMLIFrameElement.prototype, 'src', { get: d.get, set });
+  const sa = Element.prototype.setAttribute;
+  Element.prototype.setAttribute = function (n, v) {
+    if (n === 'src' && this instanceof HTMLIFrameElement) return set.call(this, v);
+    return sa.call(this, n, /^(src|href|poster)$/.test(n) ? fix(v) : v);
+  };
+  window.addEventListener('load', e => {
+    const t = e.target;
+    if (!sf || !(t instanceof HTMLIFrameElement)) return;
+    let u; try { u = t.contentWindow.location.href; } catch { return; }
+    if (isHtml(u)) sf.page(u).then(h => { t.srcdoc = h; });
+  }, true);
+  document.addEventListener('click', e => {
+    const a = e.target && e.target.closest && e.target.closest('a[href]');
+    if (!a || !sf || e.defaultPrevented || e.button || a.target === '_blank' || !isHtml(a.href)) return;
+    e.preventDefault();
+    const fe = a.target === '_top' ? sf.app : (window.frameElement || sf.app);
+    sf.page(a.href).then(h => { fe.srcdoc = h; });
+  }, true);
+  document.addEventListener('DOMContentLoaded', () =>
+    document.querySelectorAll('iframe[data-sf]').forEach(e => set.call(e, e.dataset.sf)));
+}
 
-    var current = null;
-    var statusEl = document.getElementById("status");
-    var frame = document.getElementById("app");
-    function say(t) { statusEl.textContent = t; }
+async function latest() {
+  try {
+    const r = await fetch(`https://api.github.com/repos/${REPO}/commits/${BRANCH}`,
+      { headers: { Accept: 'application/vnd.github.sha' }, cache: 'no-store' });
+    const s = r.ok ? (await r.text()).trim() : '';
+    if (/^[0-9a-f]{40}$/.test(s)) { try { localStorage.sf_sha = s; } catch {} return s; }
+  } catch {}
+  return null;
+}
 
-    function latestSha() {
-      return fetch("https://api.github.com/repos/" + REPO + "/commits/" + BRANCH)
-        .then(function (r) { return r.json(); })
-        .then(function (c) { return c.sha || BRANCH; })
-        .catch(function () { return BRANCH; });
-    }
+async function txt(u) {
+  if (mem.has(u)) return mem.get(u);
+  let r = cache && await cache.match(u).catch(() => null);
+  if (!r) {
+    r = await fetch(u);
+    if (!r.ok) throw Error(r.status + ' ' + u);
+    if (cache) cache.put(u, r.clone()).catch(() => {});
+  }
+  const t = await r.text(); mem.set(u, t); return t;
+}
 
-    function load(sha) {
-      var cdn  = "https://cdn.jsdelivr.net/gh/" + REPO + "@" + sha + "/";
-      var raw  = "https://raw.githubusercontent.com/" + REPO + "/" + sha + "/" + ENTRY;
-      var dir  = cdn + ENTRY.replace(/[^\/]*$/, "");
-      say("fetching " + ENTRY + " @ " + sha.slice(0, 7) + "…");
+const xf = t => t
+  .replace(/<li\b[^>]*data-target=["']games["'][\s\S]*?<\/li>/g, '')
+  .replace(/\{\s*key:\s*["']games["'][^}]*\},?/g, '')
+  .replace(/\[\s*["']games["']\s*,\s*/g, '[')
+  .replace(/railButton\(\s*topGroup\s*,\s*["']puzzle["']\s*,\s*["']Cloud["'][^;]*;/g, '')
+  .replace(/\b(?:window\.)?location\.origin\b/g, '(location.origin === "null" ? "https://cdn.jsdelivr.net" : location.origin)')
+  .replace(/(?:window\.)?(?:top|parent)\.location\.href\s*=\s*["']\/onboarding\/?["']/g, 'top.postMessage({sf:1},"*")')
+  .replace(/(?:(?:window\.)?(?:top|parent)\.)?(?:window\.)?location\.href\s*=\s*(["'])\/\1/g, 'top.postMessage({sf:1},"*")')
+  .replace(new RegExp('(["\'`(])\\/(' + ROOTS + ')\\/', 'g'), (m, q, d) => q + B + '/' + d + '/')
+  .replace(/(["'`])\/api\//g, (m, q) => API_ORIGIN ? q + API_ORIGIN + '/api/' : m);
 
-      fetch(raw).then(function (r) {
-        if (!r.ok) throw new Error(r.status);
-        return r.text();
-      }).then(function (html) {
-        // root-relative asset paths -> repo's public dir on the CDN (correct MIME types)
-        var pub = dir.replace(/\/$/, "");
-        html = html.replace(/(\s(?:src|href|poster)=["'])\/(?!\/)/g, "$1" + pub + "/");
+const xc = (css, url) => css.replace(/url\((["']?)(?!data:|https?:|#|\/\/)(.*?)\1\)/g,
+  (m, q, u) => { try { return `url(${new URL(u.startsWith('/') ? B + u : u, url).href})`; } catch { return m; } });
 
-        // send root-relative fetch/XHR (e.g. /api/...) to the live backend
-        var shim = "<base href=\"" + dir + "\">" +
-          "<script>(function(){var B=" + JSON.stringify(BACKEND) + ";" +
-          "var f=window.fetch;window.fetch=function(u,o){" +
-          "if(typeof u==='string'&&u.charAt(0)==='/'&&u.charAt(1)!=='/')u=B+u;return f.call(this,u,o)};" +
-          "var x=XMLHttpRequest.prototype.open;XMLHttpRequest.prototype.open=function(m,u){" +
-          "if(typeof u==='string'&&u.charAt(0)==='/'&&u.charAt(1)!=='/')arguments[1]=B+u;" +
-          "return x.apply(this,arguments)};})();<\/script>";
+async function xh(html, url, query, own = true) {
+  html = (own ? xf(html) : html).replace(/(\s(?:src|href|poster)=)(["'])(?![a-z][a-z0-9+.-]*:|#|\/|\$|\{)([^"']+)\2/gi,
+    (m, a, q, v) => a + q + new URL(v, url).href + q);
+  const parts = [], hold = p => (parts.push(p), `\u0001${parts.length - 1}\u0001`);
+  html = html
+    .replace(/<script\b([^>]*?)\ssrc=(["'])(.*?)\2([^>]*)><\/script>/gi, (m, a, q, s, z) => !s.startsWith(B) ? m :
+      hold(txt(s).then(js => `<script${a}${z}>${xf(js).replace(/<\/script/gi, '<\\/script')}<\/script>`).catch(() => '')))
+    .replace(/<link\b[^>]*>/gi, m => {
+      const h = /href=(["'])(.*?)\1/i.exec(m);
+      return h && /stylesheet/i.test(m) && h[2].startsWith(B)
+        ? hold(txt(h[2]).then(c => `<style>${xc(c, h[2])}</style>`).catch(() => '')) : m;
+    })
+    .replace(/<iframe\b([^>]*?)\ssrc=(["'])(.*?)\2/gi, (m, a, q, s) => s.startsWith(B) ? `<iframe${a} data-sf=${q}${s}${q}` : m);
+  const done = await Promise.all(parts);
+  html = html.replace(/\u0001(\d+)\u0001/g, (m, i) => done[i]);
+  const tag = `<script>(${shim})(${JSON.stringify({ base: B, api: API_ORIGIN, q: query })})<\/script>`;
+  return /<head[^>]*>/i.test(html) ? html.replace(/<head[^>]*>/i, m => m + tag) : tag + html;
+}
 
-        html = /<head[^>]*>/i.test(html)
-          ? html.replace(/<head[^>]*>/i, function (m) { return m + shim; })
-          : shim + html;
+function page(u) {
+  if (!blobs.has(u)) {
+    const [path, query = ''] = u.split('#')[0].split(/\?(.*)/s);
+    const file = path.endsWith('/') ? path + 'index.html' : path;
+    if (/\/pages\/(games|play|unsafegame)\.html$/.test(file)) { blobs.set(u, Promise.resolve('<!doctype html><body style="background:#0b0b0f">')); return blobs.get(u); }
+    blobs.set(u, txt(file).then(h => xh(h, file, query ? '?' + query : '', file.startsWith(B)))
+      .catch(e => { blobs.delete(u); throw e; }));
+  }
+  return blobs.get(u);
+}
+window.__sf = { page, app };
 
-        frame.srcdoc = html;
-        current = sha;
-        say("running commit " + sha.slice(0, 7));
-      }).catch(function (e) {
-        say("couldn't load " + ENTRY + " (" + e.message + ") – check ENTRY path");
-      });
-    }
+async function boot() {
+  if (Date.now() - lastBoot < 1500) return;
+  lastBoot = Date.now(); ready = false;
+  $('splash').style.display = 'grid'; app.style.opacity = 0; $('retry').hidden = true;
+  $('msg').textContent = 'Checking for updates…';
+  try {
+    if (/^YOUR_/.test(REPO)) throw Error('Set REPO at the top of this file (owner/name).');
+    sha = await Promise.race([latest(), new Promise(r => setTimeout(r, 3000))])
+          || (() => { try { return localStorage.sf_sha; } catch {} })() || null;
+    B = `${CDN}${REPO}@${sha || BRANCH}/${SUBDIR}`;
+    cache = null;
+    if (sha) try { cache = await caches.open('sf-' + sha); } catch {}
+    mem.clear(); blobs.clear();
+    $('msg').textContent = 'Loading ' + (sha ? sha.slice(0, 7) : BRANCH) + '…';
+    const onboarded = (() => { try { return localStorage.cherri_completedOnboarding === 'yes'; } catch { return true; } })();
+    app.srcdoc = await page(B + (onboarded ? '/index.html' : '/onboarding/'));
+    ready = true;
+    if (typeof caches !== 'undefined') caches.keys().then(k => k.filter(n => n.startsWith('sf-') && n !== 'sf-' + sha).forEach(n => caches.delete(n))).catch(() => {});
+  } catch (e) {
+    $('msg').textContent = 'Could not load: ' + e.message; $('retry').hidden = false;
+  }
+}
 
-    function tick() {
-      latestSha().then(function (sha) { if (sha !== current) load(sha); });
-    }
-    tick();
-    setInterval(tick, POLL_MS);
-  ]]></script>
+function apply() { clearTimeout(timer); $('toast').style.display = 'none'; pending = null; lastBoot = 0; boot(); }
+async function check() {
+  const s = await latest();
+  if (!s || !sha || s === sha || s === pending) return;
+  pending = s;
+  $('tmsg').textContent = 'New version ' + s.slice(0, 7) + ' available';
+  $('toast').style.display = 'flex';
+  if (AUTO_APPLY) timer = setTimeout(apply, 10000);
+}
+$('tgo').onclick = apply;
+$('tno').onclick = () => { clearTimeout(timer); $('toast').style.display = 'none'; };
+$('retry').onclick = () => { lastBoot = 0; boot(); };
+setInterval(check, CHECK_MINUTES * 60000);
+document.addEventListener('visibilitychange', () => { if (!document.hidden) check(); });
+window.addEventListener('message', e => { if (e.data && e.data.sf) { lastBoot = Date.now() - 1000; boot(); } });
+app.addEventListener('load', () => {
+  let u; try { u = app.contentWindow.location.href; } catch { return; }
+  if (ready && isHtml(u)) page(u).then(h => { app.srcdoc = h; });
+});
+app.addEventListener('load', () => { if (ready) { $('splash').style.display = 'none'; app.style.opacity = 1; } });
+boot();
+]]></script>
 </svg>
